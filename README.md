@@ -19,13 +19,13 @@ Each sample lists its context, the sources it rests on, and any revision made af
 
 **Revision note:** the substance, argument and sources are those of the April 2023 submission. In 2026 I revised the text for language and added explicit operative recommendations at the end of each section, which the original lacked. Figures are those available in 2023 and have not been updated.
 
-### Topic I — Healthy ageing and age-friendly sustainable development
+### Topic I Healthy ageing and age-friendly sustainable development
 
 Sets out Lithuania's position on ageism as a barrier to healthy-ageing policy, links population ageing to the 2030 Agenda, and grounds the national position in Lithuania's own Voluntary National Reviews.
 
 Sources: WHO *Global Report on Ageism*; WHO *Global Strategy and Plan of Action on Ageing and Health*; UN *Decade of Healthy Ageing 2021–2030*; WHO *World Report on Ageing and Health* (2015); Programme of Action of the International Conference on Population and Development; Lithuania's Voluntary National Reviews (2016, 2017, 2018); 2030 Agenda for Sustainable Development.
 
-### Topic II — Safeguarding the human rights of persons displaced by climate change
+### Topic II Safeguarding the human rights of persons displaced by climate change
 
 Sets out Lithuania's position on cross-border and internal disaster displacement, drawing on the frameworks Lithuania has endorsed and on displacement data, and argues for strengthening existing instruments rather than negotiating competing ones.
 
