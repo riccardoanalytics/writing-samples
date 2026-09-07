@@ -8,7 +8,7 @@ Each sample lists its context, the sources it rests on, and any revision made af
 
 ---
 
-## 1. Position paper — Lithuania, General Assembly Third Committee
+## 1. Position paper  Lithuania, General Assembly Third Committee
 ### Model United Nations simulation, New York, April 2023
 
 📄 [`position-paper-ga3-lithuania.pdf`](position-paper-ga3-lithuania.pdf) · [`.docx`](position-paper-ga3-lithuania.docx)
