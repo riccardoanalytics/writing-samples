@@ -1,6 +1,6 @@
 # Writing samples
 
-Short analytical and policy writing by **Riccardo Pasquali** — BA in Political Science, International Relations and Human Rights, University of Padua.
+Short analytical and policy writing by **Riccardo Pasquali**  BA in Political Science, International Relations and Human Rights, University of Padua.
 
 Each sample lists its context, the sources it rests on, and any revision made after the original submission.
 
